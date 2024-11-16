@@ -1,6 +1,5 @@
-//M. Zain
-//2022F-BSE-003
-//Section A
+//M. Ausaf
+//2022F-BSE-007/A
 
 package randomalphabetthread;
 
